@@ -7,6 +7,10 @@
   pointer-events: none;
 }
 
+.my-list-divided.ui.list:last-child {
+  padding-bottom: 14px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

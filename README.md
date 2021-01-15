@@ -1,5 +1,7 @@
 # React App
 
-Ejemplo básico de una App hecha en React que se conecta a una api Laravel
+Proyecto básico de ejemplo de una App en React que se conecta a una api Laravel.
 
-
+- Login y Registro 
+conexión a una api Laravel hecha con Passport.
+- CRUD de CEOS
